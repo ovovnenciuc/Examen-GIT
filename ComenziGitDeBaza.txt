@@ -1,8 +1,4 @@
-
-<<<<<<< HEAD
 Furtuna Alexandru - git push origin master
-
-=======
 Antoneac Victor commands 
 Git merge master
 git rebase ( la fel ca merge)
@@ -24,3 +20,9 @@ git abort --rebase    -abordare facerii rebase
 git pull // Sergheev Evgheni
 
 >>>>>>> 7312051b4198d0b3194683847b97795d353d6c1e
+=======
+Antoneac Victor commands -----
+Git merge master
+git rebase ( la fel ca merge)
+git abort --rebase    -abordare facerii rebase------->
+>>>>>>> 22bb999... Adaugare comenzi AntoneacVictor
