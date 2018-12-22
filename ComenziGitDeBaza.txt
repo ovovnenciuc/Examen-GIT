@@ -1,5 +1,11 @@
 
-<<<<<<< HEAD
+
+sevciuc vladislav =>git checkout -b namevetka 
+			git branch namevetka      
+			git branch 
+			git checkout namevetka --> peremesenie mejdu vetkami
+=======
+
 Furtuna Alexandru - git push origin master
 
 =======
@@ -9,7 +15,7 @@ git rebase ( la fel ca merge)
 git abort --rebase    -abordare facerii rebase
 
 PareaVasile -> git reset --hard
->>>>>>> 7312051b4198d0b3194683847b97795d353d6c1e
+
 
 Milovanov Gheorghii
 git fetch
@@ -19,8 +25,6 @@ Git merge master
 git rebase ( la fel ca merge)
 git abort --rebase    -abordare facerii rebase
 
-<<<<<<< HEAD
 =======
 git pull // Sergheev Evgheni
 
->>>>>>> 7312051b4198d0b3194683847b97795d353d6c1e
