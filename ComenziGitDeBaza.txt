@@ -8,9 +8,15 @@
 
 
 
+<<<<<<< HEAD
 
 
 sevciuc vladislav => 	git checkout -b namevetka 
 			git branch namevetka      
 			git branch 
 			git checkout namevetka --> peremesenie mejdu vetkami
+=======
+Ceban Mihai git config
+            git commit
+
+>>>>>>> 94d5fb6... comenzigitdebaza
