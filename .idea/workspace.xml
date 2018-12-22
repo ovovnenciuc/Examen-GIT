@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c55c746-10a4-414e-a0e7-db936ff3d424" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComenziGitDeBazaSergheevEvgheni.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Milovanov Gheorghii.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ComenziGitDeBaza.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ComenziGitDeBaza.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,16 +18,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ComenziGitDeBaza.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ComenziGitDeBaza.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ComenziGitDeBaza.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-column="8" />
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComenziGitDeBazaSergheevEvgheni.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ComenziGitDeBazaSergheevEvgheni.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ComenziGitDeBazaSergheevEvgheni.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -44,8 +44,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ComenziGitDeBaza.txt" />
         <option value="$PROJECT_DIR$/ComenziGitDeBazaSergheevEvgheni.txt" />
+        <option value="$PROJECT_DIR$/ComenziGitDeBaza.txt" />
       </list>
     </option>
   </component>
@@ -113,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545459403830</updated>
-      <workItem from="1545459405253" duration="135000" />
+      <workItem from="1545459405253" duration="652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135000" />
+    <option name="totallyTimeSpent" value="652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -158,17 +158,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ComenziGitDeBaza.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ComenziGitDeBazaSergheevEvgheni.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComenziGitDeBaza.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
