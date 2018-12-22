@@ -1,4 +1,6 @@
-
+=======
+AndreyMadan git init
+=======
 
 sevciuc vladislav =>git checkout -b namevetka 
 			git branch namevetka      
