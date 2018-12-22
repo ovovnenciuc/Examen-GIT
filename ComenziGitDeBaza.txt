@@ -27,4 +27,5 @@ git abort --rebase    -abordare facerii rebase
 
 =======
 git pull // Sergheev Evgheni
-
+************
+git clone Siminitchi Gheorghe
