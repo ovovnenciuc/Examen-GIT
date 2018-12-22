@@ -28,3 +28,9 @@ git abort --rebase    -abordare facerii rebase
 =======
 git pull // Sergheev Evgheni
 
+<<<<<<< HEAD
+=======
+Ceban Mihai git config
+            git commit
+
+>>>>>>> 94d5fb69b0dc7b8413ab35f5112f512e49fbdf5b
