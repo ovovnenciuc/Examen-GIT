@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+sevciuc vladislav => 	git checkout -b namevetka 
+			git branch namevetka      
+			git branch 
+			git checkout namevetka --> peremesenie mejdu vetkami
