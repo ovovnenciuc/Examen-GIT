@@ -1,1 +1,4 @@
-
+Antoneac Victor commands -----
+Git merge master
+git rebase ( la fel ca merge)
+git abort --rebase    -abordare facerii rebase------->
